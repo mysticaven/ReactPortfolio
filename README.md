@@ -96,14 +96,13 @@ npm install
 npm run dev
 ```
 
-Visit: [http://localhost:5173](http://localhost:5173)
-
+https://react-portfolio-zgrd.vercel.ap
 ---
 
 ## 🖼️ Screenshots
-
+![img.png](img.png)
 (Add screenshots of your **Hero**, **Projects grid**, and **Contact form** once done.)
-
+![img_1.png](img_1.png)
 ---
 
 ## ☁️ Deployment
@@ -116,8 +115,7 @@ Visit: [http://localhost:5173](http://localhost:5173)
 4. Click **Deploy**
 
 Your portfolio will be live at:
-👉 `https://gowshik.vercel.app` (example)
-
+https://react-portfolio-zgrd.vercel.ap
 ---
 
 ## 🔗 Useful Links
